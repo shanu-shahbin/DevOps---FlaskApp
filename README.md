@@ -13,3 +13,9 @@ Technologies Used: Flask, Docker, Kubernetes, Amazon EKS, Amazon ECR
 <li>AWS CLI</li>
 <li>AWS Configuration</li>
 Configure AWS CLI => Create IAM roles for EKS and ECR with appropriate permissions.
+<h1>EKS</h1>
+
+![cloud-native-cluster _ Clusters _ Elastic Kubernetes Service _ us-west-2 - Google Chrome 5_24_2024 10_01_40 AM](https://github.com/shanu-shahbin/DevOps---FlaskApp/assets/107126924/b77b9cd7-ac65-4b4f-8bcd-a0ccf86d78cc)
+<h1>ECR</h1>
+
+![cloud-native-cluster _ Clusters _ Elastic Kubernetes Service _ us-west-2 - Google Chrome 5_24_2024 10_11_55 AM](https://github.com/shanu-shahbin/DevOps---FlaskApp/assets/107126924/22961fa4-3a56-4c50-9939-8a7b517ebad9)
